@@ -1,2 +1,1 @@
-# Code-Sensei
-this is my first repository.
+# Python learning 
