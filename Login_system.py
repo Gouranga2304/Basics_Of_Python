@@ -1,6 +1,6 @@
 print("-------user login-------")
-user_name="ricl"
-passward=2304
+user_name="Gouranga"
+passward=1234
 attampts=3
 for i in range(attampts):
     n=str(input("enter the user_name: "))
